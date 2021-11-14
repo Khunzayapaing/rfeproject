@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body class="v-body">
+
+    <table class="table" >
+        <tr align="center">
+            <td><img src="img/logo.jpg" alt="logo" class="logo"></td>
+            <th align="justify" class="title">NoNs Charity Group</th>
+            
+            <td class="navicon"><a class="navi" href="index.html">Home</a></td>
+            <td class="navicon"><a class="navi" href="content.html">Content</a></td>
+            <td class="navicon" ><a class="navi" href="about.html">About Us</a></td>
+            <td class="navicon  active"><a class="navi  active" href="contact.html">Contact</a></td>
+            <td class="navicon"><a class="navi" href="donate.html">Donate</a></td>
+        </tr>
+    </table>
+    <div align="center">  
+        <div class="o-title">
+          <h2 class="v-h2">Volunteer Registration Form</h2>
+        </div> 
+        
+        <div class="v-table-div" align="center">
+                <form>
+                    <table border="1px solid black" class="v-table">
+                        <tr>
+                            <td class="v-center">
+                                <label for="name" class="v-lable">Name</label>
+                            </td>
+                            <td>    
+                                <input type="text" name="name" id="name" class="v-form" placeholder="Enter Your Name">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="v-center">
+                                <label for="ph-num" class="v-lable">Phone Number</label>
+                            </td>
+                            <td>    
+                                <input type="tel" name="ph-num" id="ph-num" class="v-form" value="09">
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="v-center">
+                                <label for="email" class="v-lable">Email Address</label>
+                            </td>
+                            <td>
+                                <input type="email" name="email" id="email" class="v-form" value="@gmail.com">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="v-center">
+                                <label for="age" class="v-lable">Age</label>
+                            </td>
+                            <td>
+                                <input type="number" name="age" id="age" class="v-form" min="16" max="40" value="16"> 
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="address" class="v-lable">Address</label></td>
+                            <td>
+                                <select name="city" id="city" class="v-form">
+                                    <option  selected disabled>Choose ur city</option>
+                                    <option>Yangon</option>
+                                    <option>Mandalay</option>
+                                    <option>Shan</option>
+                                    <option>Bago</option>
+                                </select>
+                            </td>
+                        </tr>
+                            <tr align="center">
+                                <td colspan="2">
+                                    <a href="#"><input type="button" name="submit" value="Signup" class="v-btn" ></a>
+                                </td>
+                            </tr>
+                    </table>
+                    
+                        
+                    
+
+            </form>
+        </div>
+        
+        
+    </div>
+</body>
+</html>

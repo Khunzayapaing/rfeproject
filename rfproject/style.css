@@ -1,0 +1,316 @@
+.title{
+    
+    font-size: 28px;
+    background-color: rgb(6, 204, 222);
+    color: rgb(255, 255, 255);
+}
+
+.logo{
+    
+    width: 45px;
+}
+
+.table{
+    background-color: rgb(191, 242, 246);
+    width: 100%;
+    height: 50px;
+}
+
+/* .menu-btn{
+    margin: 0 auto;
+    width: 50px;
+    
+} */
+
+.pic_table{
+    width: 50px;
+}
+
+.pic1{
+    width: 530px;
+    height: 379.88px;
+}
+
+.pic2{
+    width: 530px;
+}
+
+.advertise{
+    background-color: rgb(6, 204, 222);
+    text-align: center;
+    font-size: 50px;
+}
+
+.avater1{
+    width: 130px;
+    height: 130px;
+}
+
+.avater_row{
+    height: 90px;
+    width: 100px;
+}
+
+.avater2{
+    width: 130px;
+    height: 130px;
+}
+
+.avater3{
+    width: 120px;
+    height: 130px;
+}
+
+hr{
+    color: gray ;
+}
+
+.avdt_bt{
+    width: 100px;
+    height: 30px;
+
+}
+
+.table2_div{
+    
+    background-color: white;
+}
+
+.ava1{
+    background-color: rgb(243, 243, 243);
+}
+
+.ava2{
+    background-color: rgb(243, 243, 243);
+}
+
+.ava3{
+    background-color: rgb(243, 243, 243);
+}
+
+.navicon{
+    background-color: rgb(6, 204, 222);
+    text-align: center;
+    font-size: 25px;
+}
+
+.active{
+    color: rgb(217, 217, 194);
+    background-color: rgb(15, 165, 178);
+}
+
+.navi{
+    color: azure;
+    text-decoration: none;
+}
+
+.copyright{
+    text-align: start;
+    color: azure;
+    height: 50px;
+    background-color: rgb(6, 204, 222);
+}
+
+.pic-table{
+    width: 100%;
+    background-color: rgb(191, 242, 246);
+}
+
+/* Donate Page */
+
+.donation_table{
+    width: 850px;
+    background-color: rgb(255, 248, 248);
+
+
+}
+
+.donate_title{
+    font-size: 30px;
+    background-color: rgb(6, 204, 222);
+    color: azure;
+}
+
+.orphange_pic{
+    width: 60%;
+}
+
+.d-btn{
+    background-color: rgb(6, 204, 222);
+    text-align: center;
+    font-size: 30px;
+    width: 755px;
+    border: 1px rgb(37, 234, 251);
+    color: azure;
+}
+
+
+.green-mm_pic{
+    width: 60%;
+}
+
+.btn_gn{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(6, 204, 222);
+    font-size: 25px;
+    color: azure;
+
+}
+
+/* contact page */
+
+
+.contact{
+    text-align: justify;
+    width: 200px;
+    background-color: rgb(230, 224, 224) ;
+}
+
+.contact_a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.btn-v{
+    
+    font-size: 20px;
+    background-color: rgb(191, 242, 246);
+    height: 60px;
+}
+
+.v-contact{
+    
+    background-color: #f7f7f7;
+}
+
+/* orphange.html page */
+.dfo{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.o-table{
+    width: 60%;
+    height: 200px;
+    
+    
+}
+
+.o-text{
+    font-size: 20px;
+    background-color: #f7f7f7;
+}
+
+.textbox{
+    height: 30px;
+    width: 80%;
+    background-color: #f7f7f7;
+}
+
+.o-submit{
+    border: rgb(6, 204, 222);
+    background-color: rgb(6, 204, 222);
+    width: 500px;
+    height: 30px;
+}
+
+.o-div{
+    
+    width: 65%;
+    background-color: #f1f1f1;
+}
+
+.o-foot{
+    width: 250px;
+    height: 120px;
+    background-color: rgb(230, 230, 230);
+}
+
+.o-title{
+    margin: 0;
+    font-size: 28px;
+    background-color: rgb(6, 204, 222);
+    color: rgb(255, 255, 255);
+}
+
+.previous{
+    text-decoration: none;
+    margin: 0;
+    color: black;
+}
+
+.previous-o{
+    width: 70px;
+    background-color: #f1f1f1;
+    
+}
+
+/* Volunteer form */
+
+.v-table{
+    border:rgb(6, 204, 222);
+    background-color: rgb(191, 242, 246);
+    width: 60%;
+    height: 350px;
+}
+
+.v-lable{
+    font-size: 20px;
+}
+
+.v-form{
+    width: 200px;
+    height: 25px;
+}
+
+.v-table-div{
+    background-color: #eeeeee;
+    width: 80%;
+    
+}
+
+.v-btn{
+    text-align: center;
+    width: 70%;
+    height: 30px;
+        
+}
+
+.v-body{
+    background-color: #f1f1f1;
+}
+
+.v-h2{
+    margin: 0;
+}
+
+/* about */
+.mission{
+    text-align: justify;
+    background-color: #f7f7f7;
+}
+/* content page */
+/* .content-title{
+    width: auto;
+    
+    background-color: rgb(37, 234, 251);
+}
+.pp{
+    width: 35px;
+}
+
+.pp-row{
+    width: 100px;
+}
+
+.c-div{
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+}
+.comment{
+    width: 100px;
+    height: 50px;
+} */
